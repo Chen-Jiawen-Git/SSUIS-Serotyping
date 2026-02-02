@@ -25,11 +25,9 @@ Before using this tool, please ensure the following software is installed in you
 ## Directory Structure
 
 ```
-CPS_Serotyping_Tool/
-├── cps_serotyping.py      # Main script
+SSUIS_Serotyping_Tool/
+├── SSUIS_Serotyping.py      # Main script
 ├── references/            # Reference sequence database (contains CPS references and marker genes)
-├── utils/                 # Utility scripts (for development and debugging)
-└── README.md              # Documentation
 ```
 
 ## Quick Start
