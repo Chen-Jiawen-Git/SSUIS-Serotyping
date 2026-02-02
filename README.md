@@ -73,7 +73,7 @@ The CPS gene clusters of these two are almost identical. Studies indicate that p
     *   **Serotype 14**: This position is **G** (encoding Tryptophan, Trp).
 *   **Algorithm**: The tool extracts sequences homologous to `cpsK` from the sample and checks the base type at position 492 to make a "voting" decision.
 
-#### B. Serotype 2 vs Serotype 1/2 (Chz)
+#### B. Serotype 2 vs Serotype 1/2
 The CPS gene clusters of these two are also extremely similar, and the `cpsK` gene (972 bp in length) differs by only **2 bases** (99.79% identity).
 *   **Differentiation Strategy**: Detect key SNP sites in the `cpsK` gene.
 *   **Detection Sites**:
