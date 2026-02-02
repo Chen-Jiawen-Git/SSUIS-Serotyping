@@ -35,7 +35,7 @@ SSUIS_Serotyping_Tool/
 Place your genome assembly files (`.fasta`, `.fna`, `.fa`) in a folder (e.g., `input_genomes`), then run the following command:
 
 ```bash
-python cps_serotyping.py -f input_genomes -r references -o results.csv
+python SSUIS_Serotyping.py -f input_genomes -r references -o results.csv
 ```
 
 ## Parameters
@@ -52,7 +52,7 @@ python cps_serotyping.py -f input_genomes -r references -o results.csv
 **Example**:
 ```bash
 # Run with custom thresholds
-python cps_serotyping.py -f ./genomes -r ./references -o my_results.csv -min_co 90.0 -min_id 90.0
+python SSUIS_Serotyping.py -f ./genomes -r ./references -o my_results.csv -min_co 90.0 -min_id 90.0
 ```
 
 ## Typing Principles & Challenges
