@@ -67,7 +67,7 @@ First, sample genomes are aligned against CPS gene cluster reference sequences o
 Some serotypes have highly homologous CPS gene clusters that are difficult to distinguish based on full-length alignment alone. This tool introduces specific logic for the following two groups:
 
 #### A. Serotype 1 vs Serotype 14
-The CPS gene clusters of these two are almost identical. Studies indicate that point mutations in the `cpsK` gene (encoding sialyltransferase) are key to determining the serotype.
+The CPS gene clusters of these two are almost identical. Studies indicate that point mutations in the `cpsK` gene are key to determining the serotype.
 *   **Differentiation Strategy**: Detect the base at position **492** of the `cpsK` gene (relative to the start codon).
     *   **Serotype 1**: This position is **T** (encoding Cysteine, Cys).
     *   **Serotype 14**: This position is **G** (encoding Tryptophan, Trp).
