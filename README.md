@@ -1,6 +1,6 @@
 # Streptococcus suis CPS Serotyping Tool
 
-This is a Python-based serotyping tool for *Streptococcus suis*. It utilizes BLAST+ to align Capsular Polysaccharide (CPS) synthesis gene clusters in Whole Genome Sequencing (WGS) data. It incorporates a high-precision differentiation strategy based on **cpsK gene point mutations (SNPs)** for highly similar serotypes (such as Serotype 1 vs 14 and Serotype 2 vs 1/2).
+This is a Python-based serotyping tool for *Streptococcus suis*. It utilizes BLAST+ to align Capsular Polysaccharide (CPS) synthesis gene clusters in Whole Genome Sequencing (WGS) data. It incorporates a high-precision differentiation strategy based on **cpsK gene point mutations (SNPs)** for highly similar serotypes (Serotype 1 vs 14 and Serotype 2 vs 1/2).
 
 ## Key Features
 
